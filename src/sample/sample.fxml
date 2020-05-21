@@ -21,6 +21,7 @@
          <children>
             <Button layoutX="10.0" layoutY="59.0" mnemonicParsing="false" onAction="#code" text="штрих код" />
             <ImageView fx:id="imageView" fitHeight="150.0" fitWidth="200.0" layoutX="320.0" layoutY="84.0" pickOnBounds="true" preserveRatio="true" />
+            <Button layoutX="128.0" layoutY="147.0" mnemonicParsing="false" onAction="#files" text="файл" />
          </children></AnchorPane>
    </children>
 </GridPane>
